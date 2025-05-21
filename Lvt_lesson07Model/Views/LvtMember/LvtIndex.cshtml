@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Lvt_lesson07Model.Models.DataModels.LvtMember>;
+@{
+    ViewData["Title"] = "LvtIndex";
+}
+
+<h1>Danh sách member </h1>
+<table class=" table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Member Id</th>
+            <th>Member UserName</th>
+            <th>Member PassWord</th>
+            <th>Member FullName</th>
+            <th>Member Mail</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var lvtItem in Model) 
+        {
+            <tr>
+                <td>@lvtItem.LvtMemberId</td>
+                <td>@lvtItem.LvtUserName</td>
+                <td>@lvtItem.LvtPassword</td>
+                <td>@lvtItem.LvtFullName</td>
+                <td>@lvtItem.LvtEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
