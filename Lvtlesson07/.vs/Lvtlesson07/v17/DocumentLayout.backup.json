@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\lvtemployee\\lvtdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\lvtemployee\\lvtdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\controllers\\lvtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:controllers\\lvtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\lvtemployee\\lvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\lvtemployee\\lvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\lvtemployee\\lvtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\lvtemployee\\lvtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\lvthome\\lvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\lvthome\\lvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\lvtemployee\\lvtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\lvtemployee\\lvtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\shared\\_lvtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\shared\\_lvtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\models\\lvtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:models\\lvtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\shared\\_lvtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\shared\\_lvtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\lvthome\\lvtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\lvthome\\lvtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\controllers\\lvthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:controllers\\lvthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|c:\\k23cntt3\\k23cnt3_leviettien_netcore\\lvtlesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31489A21-D66B-4FA7-9B21-08C696DA4511}|Lvtlesson07.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LvtDetails.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\LvtEmployee\\LvtDetails.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtDetails.cshtml",
+              "RelativeToolTip": "Views\\LvtEmployee\\LvtDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:48:27.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LvtEdit.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\LvtEmployee\\LvtEdit.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtEdit.cshtml",
+              "RelativeToolTip": "Views\\LvtEmployee\\LvtEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:36:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LvtCreate.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\LvtEmployee\\LvtCreate.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtCreate.cshtml",
+              "RelativeToolTip": "Views\\LvtEmployee\\LvtCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:23:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LvtIndex.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\LvtEmployee\\LvtIndex.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtEmployee\\LvtIndex.cshtml",
+              "RelativeToolTip": "Views\\LvtEmployee\\LvtIndex.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:13:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LvtEmployeeController.cs",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Controllers\\LvtEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LvtEmployeeController.cs",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Controllers\\LvtEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\LvtEmployeeController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:54:32.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:20:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LvtIndex.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtHome\\LvtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\LvtHome\\LvtIndex.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtHome\\LvtIndex.cshtml",
+              "RelativeToolTip": "Views\\LvtHome\\LvtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:32:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LvtEmployee.cs",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Models\\LvtEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\LvtEmployee.cs",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Models\\LvtEmployee.cs",
+              "RelativeToolTip": "Models\\LvtEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:45:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LvtNavBar.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\Shared\\_LvtNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LvtNavBar.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\Shared\\_LvtNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LvtNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:28:12.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LvtAbout.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtHome\\LvtAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\LvtHome\\LvtAbout.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\LvtHome\\LvtAbout.cshtml",
+              "RelativeToolTip": "Views\\LvtHome\\LvtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:34:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:42:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:44:04.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LvtHomeController.cs",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Controllers\\LvtHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LvtHomeController.cs",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Controllers\\LvtHomeController.cs",
+              "RelativeToolTip": "Controllers\\LvtHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:30:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LvtLayout.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\Shared\\_LvtLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LvtLayout.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\Shared\\_LvtLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LvtLayout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:22:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\K23CNTT3\\K23CNT3_LeVietTien_NetCore\\Lvtlesson07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:22:01.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

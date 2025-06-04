@@ -1,0 +1,58 @@
+﻿@model Lvtlesson07.Models.LvtEmployee
+
+@{
+    ViewData["Title"] = "Thêm mới nhân viên";
+}
+
+<h1>Thêm mới nhân viên</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LvtCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LvtId" class="control-label"></label>
+                <input asp-for="LvtId" class="form-control" />
+                <span asp-validation-for="LvtId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LvtName" class="control-label"></label>
+                <input asp-for="LvtName" class="form-control" />
+                <span asp-validation-for="LvtName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LvtBirthDay" class="control-label"></label>
+                <input asp-for="LvtBirthDay" class="form-control" />
+                <span asp-validation-for="LvtBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LvtEmail" class="control-label"></label>
+                <input asp-for="LvtEmail" class="form-control" />
+                <span asp-validation-for="LvtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LvtPhone" class="control-label"></label>
+                <input asp-for="LvtPhone" class="form-control" />
+                <span asp-validation-for="LvtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LvtSalary" class="control-label"></label>
+                <input asp-for="LvtSalary" class="form-control" />
+                <span asp-validation-for="LvtSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="LvtStatus" /> @Html.DisplayNameFor(model => model.LvtStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="LvtIndex">Back to List</a>
+</div>
+
