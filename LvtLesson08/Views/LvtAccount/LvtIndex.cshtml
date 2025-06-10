@@ -1,0 +1,89 @@
+﻿@model IEnumerable<LvtLesson08.Models.LvtAccount>
+
+@{
+    ViewData["Title"] = "LvtIndex";
+}
+
+<h1>LvtIndex</h1>
+
+<p>
+    <a asp-action="LvtCreate" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvtFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvtFacebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
